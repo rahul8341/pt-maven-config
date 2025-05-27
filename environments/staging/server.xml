@@ -1,5 +1,5 @@
 <server description="Sample Open Liberty server">
-
+ <!--Commented 0527 account 2 -->
   <featureManager>
     <feature>servlet-3.1</feature>
     <feature>transportSecurity-1.0</feature>

@@ -13,8 +13,8 @@ app:
   # Enable a public endpoint for the application. If not set, the application
   # is only available on an internal endpoint accessible to other applications
   # within a subscription.
-  #endpoints: public
-  endpoints: vpe
+  endpoints: public
+  #endpoints: vpe
   
   # number of instances
   instances:

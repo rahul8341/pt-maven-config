@@ -10,7 +10,6 @@ app:
     version: "1.2"
     type: war
   services:
-      arn:
     - awsEndpointService: com.amazonaws.vpce.us-east-1.vpce-svc-038584aa8a44934a3
   # Enable a public endpoint for the application. If not set, the application
   # is only available on an internal endpoint accessible to other applications
